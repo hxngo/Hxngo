@@ -1,76 +1,86 @@
-<div>
-    <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2&height=200&text=WELCOME-nl-Seong%20%20Gwan's%20%20Github&fontsize=90&animation=twinkling&fontColor=f546fa" alt="header" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=300&section=header&text=Hi%20there,%20I'm%20Seong%20Gwan!&fontSize=50&animation=fadeIn&desc=AI%20Engineering%20Student%20|%20LLM%20Enthusiast&descAlignY=55&fontAlignY=40" width="100%"/>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=500&lines=AI+Engineering+Student+at+Cheju+Halla;Large+Language+Model+Enthusiast;Always+learning%2C+Always+growing;Let's+connect+and+create+together!✨" alt="Typing SVG" />
+  </a>
 </div>
 
-<div>
-    <h2>Hi there 👋</h2>
-    <h3>About ME</h3>
-    <ul>
-        <li>🏫 I am currently attending Cheju Halla University.</li>
-        <li>💻 I am majoring in Artificial Intelligence Engineering.</li>
-        <li>😀 My fields of interest include Large Language Models (LLM)</li>
-    </ul>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SeongGwan&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  <a href="mailto:happyhsg33@gmail.com">
+    <img src="https://img.shields.io/badge/Email-happyhsg33%40gmail.com-ff69b4?style=for-the-badge&logo=gmail" />
+  </a>
 </div>
 
-<div>
-    <h3>🛠 Tech Stack</h3>
-    <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=FFFFFF" alt="pandas" />
-    <img src="https://img.shields.io/badge/huggingface-FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=FFFFFF" alt="huggingface" />
-    <img src="https://img.shields.io/badge/langchain-04B404.svg?style=for-the-badge&logo=langchain&logoColor=FFFFFF" alt="langchain" />
-    <img src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=FFFFFF" alt="pytorch" />
-    <img src="https://img.shields.io/badge/transformers-FF6F00.svg?style=for-the-badge&logo=transformers&logoColor=FFFFFF" alt="transformers" />
+<h2>🌟 About Me</h2>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeongGwan&theme=tokyonight&hide_border=true" />
+
+- 🏫 **Cheju Halla University** AI Engineering Student
+- 💡 Exploring the fascinating world of **Large Language Models**
+- 🌊 Coding with the beautiful scenery of Jeju Island
+- 🚀 Passionate about AI/ML and its real-world applications
+- 📚 Constantly learning and sharing knowledge
+- 🤝 Open to collaborating on innovative AI projects
+
+<h2>🛠️ Tech Stack & Tools</h2>
+<div align="center">
+  <h3>💻 Programming & AI/ML</h3>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+  <br/>
+  
+  <p>
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+    <img src="https://img.shields.io/badge/LangChain-33CC33?style=for-the-badge&logo=chainlink&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  </p>
+
+  <h3>🔧 Development Tools</h3>
+  <p>
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+    <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  </p>
 </div>
 
-<div>
-    <h3>🔧 Tools</h3>
-    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="git" />
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="github" />
-    <img src="https://img.shields.io/badge/notion-FFFFFF.svg?style=for-the-badge&logo=notion&logoColor=000000" alt="notion" />
-    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF" alt="vscode" />
-    <img src="https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=FFFFFF" alt="jupyter" />
+<h2>📊 GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SeongGwan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SeongGwan&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
-<div>
-    <h3>🔤 Languages</h3>
-    <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="python" />
+<h2>🚀 Featured Projects</h2>
+<div align="center">
+  <a href="https://github.com/SeongGwan/LectureSync">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeongGwan&repo=LectureSync&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/SeongGwan/FakeReviewDetection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeongGwan&repo=FakeReviewDetection&theme=tokyonight&hide_border=true" />
+  </a>
 </div>
 
-<!--<div>
-    <h3>📂 Projects</h3>
-    <ul>
-        <li><strong>LLM Fine-Tuning</strong>: Worked on fine-tuning large language models to improve performance on specific tasks.</li>
-        <li><strong>RAG Chatbot with LangChain</strong>: Created a retrieval-augmented generation chatbot using LangChain, utilizing video, PDF, and TXT files for enhanced retrieval capabilities.</li>
-        <li><strong>Multiple Human Pose Estimation</strong>: Developed a project for estimating multiple human poses in images and videos.</li>
-        <li><strong>Advertisement Detection in Naver Blog Reviews</strong>: Developed a system to detect promotional content in Naver blog reviews by analyzing text, images, and metadata.</li>
-        <li><strong>Route Optimization</strong>: Created an optimization algorithm that determines the best route by analyzing road characteristics and predicting traffic patterns.</li>
-    </ul>
-</div>
--->
-<div>
-    <h3>🏆 GitHub Trophies</h3>
-    <img src="https://github-profile-trophy.vercel.app/?username=hxngo&theme=onedark&no-frame=true&row=1&column=6" alt="trophy" />
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SeongGwan&theme=tokyo-night&hide_border=true" width="100%"/>
 
-<div>
-    <h3>📊 GitHub Stats</h3>
-    <a href="https://github.com/hxngo/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=hxngo&hide=stars&count_private=true&show_icons=true&theme=city_lights&hide_rank=true" alt="Pil Seong's GitHub stats" />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SeongGwan/SeongGwan/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SeongGwan/SeongGwan/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/SeongGwan/SeongGwan/output/github-contribution-grid-snake.svg" />
+  </picture>
+
+  <h2>🤝 Let's Connect!</h2>
+  <div>
+    <a href="https://github.com/SeongGwan" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
+    <a href="mailto:happyhsg33@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
+    </a>
+  </div>
 </div>
 
-<div>
-    <h3>📂 Featured Projects</h3>
-    <a href="https://github.com/hxngo/LectureSync">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxngo&repo=LectureSync&theme=city_lights" alt="LectureSync Project" />
-    </a>
-    <a href="https://github.com/hxngo/fake-review-detection">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxngo&repo=fake-review-detection&theme=city_lights" alt="Fake Review Detection Project" />
-    </a>
-</div>
-
-<div>
-    <h3>🗂 Top Languages</h3>
-    <a href="https://github.com/hxngo/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxngo&layout=compact&theme=city_lights" alt="Top Languages" />
-    </a>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=150&section=footer" width="100%"/>
