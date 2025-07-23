@@ -32,8 +32,9 @@
 <tr>
 <td width="50%">
 
-### 👨‍💻 Who Am I?
-```python
+**👨‍💻 Who Am I?**
+
+```
 class SeonggwanHan:
     def __init__(self):
         self.name = "Seong Gwan Han"
