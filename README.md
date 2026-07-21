@@ -124,10 +124,6 @@ class SeonggwanHan:
 ## 📊 GitHub Statistics
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=hxngo&theme=tokyonight&hide_border=true&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5BCDEC&sideLabels=FFFFFF&dates=FFFFFF" />
-</div>
-
-<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hxngo&theme=tokyo-night&hide_border=true&custom_title=📈%20Contribution%20Activity" width="95%"/>
 </div>
 
