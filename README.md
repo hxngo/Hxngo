@@ -60,9 +60,6 @@ class SeonggwanHan:
 </td>
 <td width="50%">
 
-### 📊 GitHub Analytics
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxngo&layout=donut&theme=tokyonight&hide_border=true&custom_title=🚀%20Most%20Used%20Languages" width="100%"/>
-
 ### 🎯 Current Goals
 - 🔬 **Research**: Advanced RAG techniques
 - 🏗️ **Build**: Production-ready AI systems  
@@ -127,20 +124,7 @@ class SeonggwanHan:
 ## 📊 GitHub Statistics
 
 <div align="center">
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=hxngo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=🚀%20GitHub%20Statistics" />
-</td>
-<td width="50%">
 <img src="https://streak-stats.demolab.com/?user=hxngo&theme=tokyonight&hide_border=true&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5BCDEC&sideLabels=FFFFFF&dates=FFFFFF" />
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hxngo&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" />
 </div>
 
 <div align="center">
@@ -156,8 +140,7 @@ class SeonggwanHan:
 <tr>
 <td width="50%">
 
-### 🎥 YouTube Lecture Assistant
-[![YouTube-lecture-assistant](https://github-readme-stats.vercel.app/api/pin/?username=hxngo&repo=YouTube-lecture-assistant&theme=tokyonight&hide_border=true&show_description=true)](https://github.com/hxngo/YouTube-lecture-assistant)
+### [🎥 YouTube Lecture Assistant](https://github.com/hxngo/YouTube-lecture-assistant)
 
 **🎓 강의 영상 RAG 학습 도우미**
 - 🔍 자막 분석 · 구간 검색
@@ -167,8 +150,7 @@ class SeonggwanHan:
 </td>
 <td width="50%">
 
-### 🌊 STAI — Climate Finance UI
-[![flood-management-ui](https://github-readme-stats.vercel.app/api/pin/?username=hxngo&repo=flood-management-ui&theme=tokyonight&hide_border=true&show_description=true)](https://github.com/hxngo/flood-management-ui)
+### [🌊 STAI — Climate Finance UI](https://github.com/hxngo/flood-management-ui)
 
 **🛰️ 기후 금융 검증 대시보드**
 - 🗺️ 위성 이미지 모니터링
@@ -180,8 +162,7 @@ class SeonggwanHan:
 <tr>
 <td width="50%">
 
-### 🔍 AI Text Clustering
-[![ai-text-clustering](https://github-readme-stats.vercel.app/api/pin/?username=hxngo&repo=ai-text-clustering&theme=tokyonight&hide_border=true&show_description=true)](https://github.com/hxngo/ai-text-clustering)
+### [🔍 AI Text Clustering](https://github.com/hxngo/ai-text-clustering)
 
 **🧪 AI 생성 텍스트 탐지**
 - 📊 Clustering 기반 분석
@@ -190,8 +171,7 @@ class SeonggwanHan:
 </td>
 <td width="50%">
 
-### 🗣️ Jeju Dialect Retrieval
-[![jeju-dialect-contextual-retrieval](https://github-readme-stats.vercel.app/api/pin/?username=hxngo&repo=jeju-dialect-contextual-retrieval&theme=tokyonight&hide_border=true&show_description=true)](https://github.com/hxngo/jeju-dialect-contextual-retrieval)
+### [🗣️ Jeju Dialect Retrieval](https://github.com/hxngo/jeju-dialect-contextual-retrieval)
 
 **🌐 제주어 방언 Contextual RAG**
 - 🔎 Contextual Retrieval
