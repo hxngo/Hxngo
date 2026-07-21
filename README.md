@@ -133,7 +133,7 @@ class SeonggwanHan:
 <img src="https://github-readme-stats.vercel.app/api?username=hxngo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=🚀%20GitHub%20Statistics" />
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hxngo&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5BCDEC&sideLabels=FFFFFF&dates=FFFFFF" />
+<img src="https://streak-stats.demolab.com/?user=hxngo&theme=tokyonight&hide_border=true&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5BCDEC&sideLabels=FFFFFF&dates=FFFFFF" />
 </td>
 </tr>
 </table>
@@ -156,63 +156,50 @@ class SeonggwanHan:
 <tr>
 <td width="50%">
 
-### 🎓 LectureSync
-[![LectureSync](https://github-readme-stats.vercel.app/api/pin/?username=hxngo&repo=LectureSync&theme=tokyonight&hide_border=true&show_description=true)](https://github.com/hxngo/LectureSync)
+### 🎥 YouTube Lecture Assistant
+[![YouTube-lecture-assistant](https://github-readme-stats.vercel.app/api/pin/?username=hxngo&repo=YouTube-lecture-assistant&theme=tokyonight&hide_border=true&show_description=true)](https://github.com/hxngo/YouTube-lecture-assistant)
 
-**🔥 Smart lecture synchronization system**
-- 🤖 AI-powered content analysis
-- 📝 Automated note generation
-- 🎯 Intelligent summarization
+**🎓 강의 영상 RAG 학습 도우미**
+- 🔍 자막 분석 · 구간 검색
+- 📝 요약 · 북마크
+- 🏅 CLASS-UP 경진대회 우수상
 
 </td>
 <td width="50%">
 
-### 🤖 RAG-Chatbot  
-[![RAG-Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=hxngo&repo=RAG-Chatbot&theme=tokyonight&hide_border=true&show_description=true)](https://github.com/hxngo/RAG-Chatbot)
+### 🌊 STAI — Climate Finance UI
+[![flood-management-ui](https://github-readme-stats.vercel.app/api/pin/?username=hxngo&repo=flood-management-ui&theme=tokyonight&hide_border=true&show_description=true)](https://github.com/hxngo/flood-management-ui)
 
-**🧠 Advanced RAG implementation**
-- 🔍 Retrieval-Augmented Generation
-- 💬 Intelligent conversation system
-- 🎯 Context-aware responses
+**🛰️ 기후 금융 검증 대시보드**
+- 🗺️ 위성 이미지 모니터링
+- 🧠 AI 교차 검증
+- 🏆 제주도지사상 대상
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🔍 FakeReviewDetection
-[![FakeReviewDetection](https://github-readme-stats.vercel.app/api/pin/?username=hxngo&repo=FakeReviewDetection&theme=tokyonight&hide_border=true&show_description=true)](https://github.com/hxngo/FakeReviewDetection)
+### 🔍 AI Text Clustering
+[![ai-text-clustering](https://github-readme-stats.vercel.app/api/pin/?username=hxngo&repo=ai-text-clustering&theme=tokyonight&hide_border=true&show_description=true)](https://github.com/hxngo/ai-text-clustering)
 
-**🛡️ AI-powered authenticity detection**
-- 🔬 NLP-based analysis
-- 📊 Machine learning models
-- ✅ Real-time verification
+**🧪 AI 생성 텍스트 탐지**
+- 📊 Clustering 기반 분석
+- 🤖 NLP 파이프라인
 
 </td>
 <td width="50%">
 
-### 🌟 More Projects Coming Soon!
-<div align="center">
-<img src="https://img.shields.io/badge/🚧%20Under%20Development-FF6B35?style=for-the-badge&logoColor=white" />
-<br/><br/>
-<p>
-<img src="https://img.shields.io/badge/🤖%20Multi--Agent%20Systems-purple?style=flat-square" />
-<img src="https://img.shields.io/badge/🔗%20Knowledge%20Graphs-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/🎯%20Fine--tuning-green?style=flat-square" />
-</p>
-</div>
+### 🗣️ Jeju Dialect Retrieval
+[![jeju-dialect-contextual-retrieval](https://github-readme-stats.vercel.app/api/pin/?username=hxngo&repo=jeju-dialect-contextual-retrieval&theme=tokyonight&hide_border=true&show_description=true)](https://github.com/hxngo/jeju-dialect-contextual-retrieval)
+
+**🌐 제주어 방언 Contextual RAG**
+- 🔎 Contextual Retrieval
+- 🤝 SKT 협업
 
 </td>
 </tr>
 </table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📈 Weekly Development Breakdown
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=hxngo&theme=tokyonight&hide_border=true&layout=compact&custom_title=⏰%20Coding%20Time%20This%20Week" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
